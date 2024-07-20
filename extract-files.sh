@@ -39,7 +39,7 @@ fi
 
 set -e
 
-export DEVICE=alioth
+export DEVICE=munch
 export DEVICE_COMMON=sm8250-common
 export VENDOR=xiaomi
 

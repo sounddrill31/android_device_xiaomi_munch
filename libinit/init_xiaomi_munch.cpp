@@ -19,7 +19,7 @@ static const variant_info_t munchin_info = {
     .model = "22021211RI",
     .build_fingerprint = "POCO/munch_in/munch:13/RKQ1.211001.001/V816.0.2.0.ULMMIXM:user/release-keys",
 
-    .nfc = false,
+    .nfc = true,
 };
 
 static const variant_info_t munch_global_info = {
